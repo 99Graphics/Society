@@ -1,0 +1,729 @@
+@media only screen and (min-width: 2501px) {
+}
+@media only screen and (min-width: 1900px) {
+  .donation {
+    background-size: 100% auto;
+    background-position: center center;
+  }
+
+  .header-content .right-header ul {
+    margin: 0;
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+}
+@media only screen and (min-width: 768px) {
+  .footer .mobile-collapsible .ftr-block-content {
+    display: block !important;
+  }
+}
+
+@media (max-width: 1199px) {
+  #myTopnav {
+    position: relative;
+  }
+  #myTopnav .header-menu {
+    display: none;
+  }
+  #header .menu-sec .icon {
+    display: block;
+  }
+  #myTopnav .icon {
+    background: #175cff;
+    display: block;
+    float: left;
+    height: 40px;
+    padding: 6px 15px;
+    position: absolute;
+    right: 0px;
+    top: -5px;
+    transform: none;
+    transition: all 0s ease 0s;
+    width: 45px;
+    transition: all 0.5s ease;
+  }
+  #header .menu-sec .icon img {
+    width: 17px;
+  }
+  #myTopnav .icon:hover,
+  #myTopnav.responsive .icon {
+    background: #175cff;
+  }
+  #myTopnav.responsive .header-menu {
+    background-color: rgba(0, 0, 0, 0.8);
+    border-top: 4px solid #175cff;
+    display: block;
+    padding: 19px;
+    position: absolute;
+    right: 0;
+    top: 42px;
+    width: 40%;
+    z-index: 9999999;
+  }
+  #myTopnav.responsive .header-menu ul {
+    float: left;
+    margin: 0;
+    width: 100%;
+  }
+  #myTopnav.responsive .header-menu ul li {
+    float: left;
+    margin: 0;
+    width: 100%;
+  }
+  #myTopnav.responsive .header-menu ul li.buy-now {
+    position: relative;
+  }
+  #myTopnav.responsive .header-menu ul li a {
+    width: 100%;
+    text-align: center;
+  }
+  #myTopnav.responsive .header-menu ul li a:hover,
+  #myTopnav.responsive .header-menu ul li a.active {
+    background: #175cff;
+    color: #fff;
+  }
+  #myTopnav.responsive .header-menu ul li.join-now {
+    margin-top: 5px;
+  }
+  .header .menu-icon {
+    display: none;
+  }
+
+  .banner-left-contant {
+    float: left;
+    padding: 120px 0 0;
+  }
+  .banner-left-contant span {
+    font-size: 14px;
+  }
+  .banner-left-contant h1 {
+    font-size: 40px;
+    margin: 10px 0 20px;
+  }
+  .banner-left-contant h1 br {
+    display: none;
+  }
+  .scroll-down {
+    display: none;
+  }
+
+  .info-layout .box-content .number {
+    font-size: 68px;
+  }
+
+  .how-it-work {
+    padding: 50px 0 20px;
+  }
+  .section-title h2 {
+    font-size: 38px;
+    line-height: 40px;
+  }
+
+  .scholarships .left-content .client-details {
+    padding: 50px 0 20px;
+  }
+  .scholarships .left-content .client-details span {
+    font-size: 14px;
+  }
+  .scholarships .left-content .client-details h2 {
+    font-size: 38px;
+  }
+  .scholarships .left-content .client-details h2 br {
+    display: none;
+  }
+
+  .our-society {
+    padding: 50px 0 20px;
+  }
+  .our-society .section-text br,
+  .our-society p br {
+    display: none;
+  }
+  .our-society .section-text {
+    font-size: 22px;
+  }
+  .donation {
+    padding: 50px 0 20px;
+  }
+  .donation .col-md-5 .donation-content-box .content-text {
+    font-size: 22px;
+  }
+
+  .our-foundation {
+    padding: 50px 0 20px;
+  }
+  .our-foundation .left-content span {
+    font-size: 14px;
+  }
+  .our-foundation .right-content .scholarship .title,
+  .our-foundation .right-content .chapters .title {
+    font-size: 14px;
+  }
+  .our-foundation .right-content .scholarship p,
+  .our-foundation .right-content .chapters p {
+    font-size: 14px;
+  }
+
+  .recipients {
+    padding: 50px 0 20px;
+  }
+  .recipients .success-stories span {
+    font-size: 14px;
+  }
+  .recipients .success-stories .content-title br {
+    display: none;
+  }
+  .recipients .success-stories .content-title {
+    font-size: 22px;
+  }
+  #recipients-slider .item-recipients .inner-content .name a {
+    font-size: 22px;
+  }
+  .recipients .success-stories a.learn-more {
+    font-size: 14px;
+  }
+  .recipients .success-stories a.learn-more::after {
+    background-size: 60%;
+    top: 7px;
+  }
+  #recipients-slider .item-recipients .inner-content .des {
+    font-size: 14px;
+  }
+
+  .header-content .right-header ul li {
+    margin: 0 20px 0 0;
+  }
+  .header-content .top-right {
+    right: 0;
+    margin: -50px 20px 0 0;
+  }
+  .header-content .top-right .signin-img {
+    float: right;
+    margin-right: 30px;
+  }
+  .header-menu.active .menu-box .column {
+    margin: 0 25px 0 0;
+  }
+}
+
+@media (max-width: 990px) {
+  #myTopnav .icon {
+    padding: 7px 15px;
+  }
+  #myTopnav.responsive .header-menu {
+    width: 50%;
+  }
+
+  .banner-left-contant span {
+    font-size: 12px;
+  }
+  .banner-left-contant h1 {
+    font-size: 34px;
+    line-height: 40px;
+  }
+  .banner-left-contant p {
+    font-size: 14px;
+  }
+  .banner-left-contant p br {
+    display: none;
+  }
+  .banner-left-contant .btn .member {
+    font-size: 14px;
+  }
+
+  .info-layout .box-content p {
+    font-size: 12px;
+  }
+  .info-layout .box-content .number {
+    font-size: 58px;
+  }
+  .info-layout .box-content span {
+    font-size: 13px;
+  }
+
+  .section-title h2 {
+    font-size: 34px;
+  }
+  .how-it-work .right-content .work-details .content-title {
+    font-size: 22px;
+  }
+  .how-it-work .right-content .work-details .content-title br {
+    display: none;
+  }
+  .how-it-work .right-content .work-details p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .how-it-work .right-content .work-details .btn a {
+    font-size: 14px;
+  }
+
+  .scholarships .left-content .client-details h2 {
+    line-height: 40px;
+  }
+  .scholarships .left-content .client-details .name {
+    font-size: 20px;
+  }
+  .scholarships .left-content .client-details p {
+    font-size: 14px;
+  }
+  .scholarships .left-content .client-details .btn a {
+    font-size: 14px;
+  }
+  .our-society .section-text {
+    font-size: 20px;
+  }
+  .our-society p {
+    font-size: 14px;
+  }
+  .our-society .btn a {
+    font-size: 14px;
+  }
+  .our-society .institute-logos li {
+    width: 8.5%;
+  }
+  .our-society .content-btm-txt {
+    margin-top: 20px;
+  }
+
+  .donation .donation-content-box {
+    padding: 30px 20px;
+  }
+  .donation .donation-content-box .content-text {
+    font-size: 20px;
+  }
+  .donation .donation-content-box p {
+    font-size: 14px;
+  }
+  .donation .donation-amout .amout {
+    font-size: 14px;
+    width: 30%;
+    margin: 0 2px 10px;
+  }
+  .donation .btn a {
+    width: 100%;
+  }
+  .donation .btn a.donate {
+    margin-bottom: 10px;
+  }
+
+  .our-foundation .section-title > h2 {
+    line-height: 40px;
+  }
+  .our-foundation .section-title > h2 br {
+    display: none;
+  }
+  .our-foundation .content-text {
+    margin: 30px 0 10px;
+  }
+  .our-foundation .right-content {
+    margin-left: 0;
+    margin-top: 40px;
+  }
+  .our-foundation .right-content .scholarship,
+  .our-foundation .right-content .chapters {
+    width: 48%;
+  }
+  .our-foundation .right-content .scholarship .title,
+  .our-foundation .right-content .chapters .title {
+    margin: 0 0 10px;
+  }
+  .recipients .success-stories {
+    margin-bottom: 30px;
+  }
+
+  .header-menu.active .menu-box .box-header {
+    margin: 0 0 30px;
+  }
+  .header-content .right-header ul {
+    margin: 0;
+  }
+  .header-content .right-header ul li {
+    margin: 0 30px 0 0;
+  }
+  .header-content .right-header ul li p {
+    display: none;
+  }
+  .header-menu.active .menu-box .column {
+    width: 48%;
+    min-height: inherit;
+  }
+  .header-menu.active .menu-box .column p {
+    margin: 20px 0 0;
+  }
+  .header-menu.active .menu-box .column:nth-child(3),
+  .header-menu.active .menu-box .column:nth-child(7) {
+    float: right !important;
+    margin: 0;
+  }
+  .header-menu.active .menu-box .column a {
+    font-size: 20px;
+  }
+  .footer .col-md-3 {
+    width: 50%;
+  }
+}
+
+@media (max-width: 800px) {
+  .header-menu.active .menu-box {
+    top: 80px;
+  }
+  .header-content .right-header ul {
+    margin: 0 100px 0 0;
+  }
+  .header-content .right-header ul li {
+    margin: 0 20px 0 0;
+  }
+}
+
+@media (max-width: 799px) {
+  .banner-left-contant h1 {
+    font-size: 30px;
+  }
+  .info-layout .box-content {
+    padding: 20px 10px 10px;
+  }
+  .info-layout .box-content .number {
+    font-size: 48px;
+  }
+  .section-title h2 {
+    font-size: 30px;
+    line-height: 32px;
+  }
+  .how-it-work .right-content .work-details .content-title {
+    font-size: 20px;
+  }
+  .how-it-work .left-content.video iframe {
+    height: 250px;
+  }
+  .how-it-work .right-content .work-details .btn {
+    margin: 20px 0;
+  }
+  .scholarships .left-content .client-details h2 {
+    font-size: 30px;
+    line-height: 32px;
+  }
+}
+
+@media (max-width: 767px) {
+  #myTopnav.responsive .header-menu {
+    width: 100%;
+  }
+  .banner-left-contant {
+    padding: 60px 0 0;
+  }
+  .banner-left-contant span,
+  .banner-left-contant p {
+    display: none;
+  }
+  .banner-left-contant h1 {
+    font-size: 28px;
+    line-height: 30px;
+  }
+  .banner-left-contant .btn {
+    margin: 0;
+  }
+
+  .info-layout .col-md-3:last-child .box-content {
+    border-right: 0.806763px solid rgba(223, 223, 223, 0.7);
+  }
+  .info-layout .col-md-3:first-child .box-content {
+    border-left: 0.806763px solid rgba(223, 223, 223, 0.7);
+  }
+  .info-layout .box-content .number {
+    font-size: 38px;
+  }
+
+  .how-it-work .section-title h2 {
+    font-size: 28px;
+  }
+  .how-it-work .right-content .work-details .content-title {
+    margin-top: 20px;
+  }
+
+  .our-society .section-text {
+    font-size: 18px;
+  }
+  .our-society .institute-logos li {
+    width: 11.8%;
+  }
+
+  .donation .donation-amout .amout {
+    width: 22%;
+  }
+  .donation .btn a {
+    width: 180px;
+    font-size: 14px;
+    height: auto;
+  }
+
+  .our-foundation .section-title > h2 {
+    line-height: 32px;
+  }
+
+  .header-content .logo img {
+    width: 100%;
+  }
+  .header-content .right-header ul {
+    margin: 0 70px 0 0;
+  }
+  .header-content .right-header ul li {
+    margin: 0 10px 0 0;
+  }
+  .header-content .top-right {
+    margin: -35px 20px 0 0;
+  }
+  .header-content .top-right .signin-img {
+    margin-right: 10px;
+  }
+  .header-content .top-right .signin-img a img {
+    width: 30px;
+  }
+  .header-content .top-right a {
+    margin-top: 0;
+  }
+  .header-menu.active .menu-box .column {
+    margin: 0 20px 0 0;
+  }
+
+  .footer {
+    padding: 50px 0 20px;
+  }
+  .footer-logo {
+    margin-bottom: 30px;
+  }
+  .footer .col-md-3 {
+    width: 100%;
+  }
+  .footer .mobile-collapsible {
+    margin: 0;
+    position: relative;
+  }
+  .footer .mobile-collapsible .opener {
+    cursor: pointer;
+    display: block;
+    float: right;
+    position: absolute;
+    right: 0;
+    top: 13px;
+  }
+  .footer .mobile-collapsible .opener::before {
+    color: #fff;
+    content: "\f067";
+    font-family: fontawesome;
+  }
+  .footer .mobile-collapsible.active .opener::before {
+    content: "\f068";
+  }
+  .footer .mobile-collapsible .title {
+    border-top: none;
+    border-bottom: 1px solid #fff;
+    padding: 10px 0;
+    width: 100%;
+  }
+  .footer .mobile-collapsible .title p {
+    font-size: 16px;
+  }
+  .footer .mobile-collapsible .ftr-block-content {
+    padding: 10px 0;
+  }
+}
+
+@media (max-width: 599px) {
+  #myTopnav .icon {
+    top: -37px;
+    padding: 6px 15px;
+  }
+  #myTopnav.responsive .header-menu {
+    top: 10px;
+  }
+  .banner .col-sm-6 {
+    width: 50%;
+  }
+  .banner-left-contant h1 {
+    font-size: 24px;
+  }
+  .banner-left-contant .btn .member {
+    padding: 8px 30px;
+    margin: 0 0 15px;
+  }
+
+  .how-it-work {
+    padding: 30px 0 0;
+  }
+  .how-it-work .section-title h2 {
+    font-size: 24px;
+    margin: 0 0 20px;
+  }
+  .how-it-work .right-content .work-details .content-title {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  .scholarships .left-content .client-details {
+    padding: 30px 0 10px;
+  }
+  .scholarships .left-content .client-details h2 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .scholarships .left-content .client-details .name {
+    font-size: 18px;
+  }
+  .scholarships .right-img {
+    margin-top: 10px;
+    display: inline-block;
+  }
+
+  .our-society {
+    padding: 30px 0 10px;
+  }
+  .section-title h2 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .our-society .section-text {
+    line-height: 24px;
+  }
+  .our-society .btn a {
+    width: 200px;
+  }
+  .our-society .institute-logos {
+    margin: 30px 10px 0;
+  }
+  .our-society .institute-logos li {
+    width: 8%;
+    margin-bottom: 10px;
+  }
+  .our-society .institute-logos li a img {
+    width: 70%;
+  }
+  .donation .donation-content-box .content-text {
+    font-size: 18px;
+  }
+
+  .our-foundation {
+    padding: 30px 0 10px;
+  }
+  .our-foundation .section-title > h2 {
+    line-height: 30px;
+  }
+
+  .recipients {
+    padding: 30px 0 10px;
+  }
+  .recipients .success-stories .content-title {
+    font-size: 18px;
+  }
+  #recipients-slider .item-recipients .inner-content .name a {
+    font-size: 18px;
+  }
+  #recipients-slider .item-recipients .inner-content span {
+    font-size: 13px;
+  }
+
+  .header-content .logo-sec {
+    width: 30%;
+  }
+  .header-content .right-header {
+    width: 50%;
+  }
+  .header-content .right-header ul {
+    margin: 0px 0 0;
+  }
+  .header-content .right-header ul li {
+    margin: 0 10px 0 0;
+  }
+  .header-content .right-header ul li img {
+    width: 15px;
+  }
+  .header-content .top-right {
+    margin: -30px 20px 0 0;
+  }
+  .header-menu.active .menu-box {
+    padding: 20px;
+    top: 60px;
+  }
+  .header-menu.active .menu-box .column {
+    width: 100%;
+    margin: 0;
+  }
+  .header-menu.active .menu-box .column p {
+    width: 100%;
+  }
+  .header-menu.active .menu-box .box-header {
+    margin: 0 0 10px;
+  }
+  .header-menu.active .menu-box .box-header a img {
+    width: 50%;
+  }
+  .header-menu.active .menu-box .column p {
+    margin: 10px 0 0;
+  }
+  .header-menu.active .menu-box .column a {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 479px) {
+  .banner-left-contant h1 {
+    line-height: 25px;
+  }
+  .banner-left-contant .btn .member {
+    font-size: 12px;
+    padding: 6px 20px;
+  }
+  .how-it-work .right-content .work-details .content-title {
+    line-height: 25px;
+  }
+  .scholarships .left-content .client-details h2 {
+    line-height: 25px;
+  }
+  .our-society .btn a.chapter {
+    margin: 0 0 10px 0;
+  }
+  .our-society .btn a {
+    width: 100%;
+  }
+  .our-society .institute-logos {
+    padding-right: 20px;
+  }
+  .our-society .institute-logos li a img {
+    width: 100%;
+  }
+  .donation .donation-amout .amout {
+    width: 30%;
+  }
+  .donation .btn a {
+    width: 100%;
+  }
+  .our-foundation .section-title > h2 {
+    line-height: 25px;
+  }
+  .our-foundation .right-content .scholarship,
+  .our-foundation .right-content .chapters {
+    width: 100%;
+  }
+  .our-foundation .right-content .scholarship {
+    margin-bottom: 20px;
+  }
+
+  .header-content .logo-sec {
+    width: 50%;
+  }
+  .header-content .right-header {
+    display: none;
+  }
+}
+
+@media (max-width: 375px) {
+}
+@media (max-width: 320px) {
+  .banner-left-contant h1 {
+    font-size: 20px;
+    line-height: 22px;
+  }
+  .banner-left-contant .btn .member {
+    padding: 6px 18px;
+  }
+}

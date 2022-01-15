@@ -1,0 +1,69 @@
+.footer {
+  background: #222222;
+  padding: 50px 0;
+}
+.footer .mobile-collapsible {
+  margin-top: 30px;
+}
+
+.footer .mobile-collapsible .title {
+  border-top: 1px solid #fff;
+  color: #fff;
+  font-size: 14px;
+  padding: 14px 0;
+  width: 80%;
+}
+.footer .mobile-collapsible .title p {
+  letter-spacing: 1px;
+}
+.footer .mobile-collapsible .ftr-block-content ul {
+  padding: 0;
+  margin: 0;
+}
+.footer .mobile-collapsible .ftr-block-content ul li {
+  clear: both;
+  float: left;
+  list-style-type: none;
+}
+.footer .mobile-collapsible .ftr-block-content ul li a {
+  color: #fff;
+  font-family: "Didot";
+  font-size: 18px;
+  float: left;
+  margin: 0;
+  padding: 5px 0;
+  transition: all 0.5s ease;
+  font-weight: 400;
+  line-height: 26px;
+}
+.footer .mobile-collapsible .ftr-block-content ul li a:hover {
+  color: #175cff;
+}
+.footer .mobile-collapsible .opener {
+  display: none;
+}
+.footer-social-links {
+  margin: 50px 0 0;
+  padding: 0;
+}
+.footer-social-links ul {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.footer-social-links ul li {
+  display: inline-block;
+  padding: 0 10px;
+}
+.footer-social-links ul li a img {
+  width: 20px;
+}
+.copyright {
+  padding: 0;
+}
+.copyright p {
+  color: #fff;
+  font-size: 14px;
+  padding: 20px 0 0;
+  text-align: center;
+}

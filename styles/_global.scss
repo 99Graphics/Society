@@ -1,0 +1,54 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Didot LT Std";
+}
+p {
+  margin: 0px;
+  padding: 0px;
+}
+a {
+  text-decoration: none;
+  transition: 0.5s;
+}
+body {
+  overflow-x: hidden;
+  font-family: "Mukta";
+  font-size: 16px;
+  color: #596172;
+  line-height: inherit !important;
+}
+html {
+  overflow-x: hidden;
+}
+
+.btn {
+  margin: 20px 0 0;
+  padding: 0;
+}
+.btn a {
+  border-radius: 20px;
+  float: left;
+  transition: all 0.5s ease 0s;
+  padding: 10px 40px;
+}
+.btn a:hover {
+  background: #175cff !important;
+  color: #fff !important;
+}
+.section-title h2 {
+  color: #1f2f6e;
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 50px;
+  margin: 0 0 20px;
+}
